@@ -1,0 +1,7 @@
+Python is a high-level, object-oriented dynamic language developed by Guido van Rossum as a pet project. Released in 1991, it has become extremely popular for its unique features and is the go-to language for countless developers globally.
+
+python 
+
+
+
+python
